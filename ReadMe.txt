@@ -12,3 +12,7 @@ This collection of code allows readers to reproduce the results reported in the 
 10) code_10_CytoDx.ipynb. This code test the performance of CytoDx.This is code is written in R. 
 11) code_11_CellCNN.ipynb. This code test the performance of CellCNN. 
 12) code_12_meta_analysis.ipynb. This code identifies the CD3+ CD8+ CD27- CD94+ cell subset in all 9 studies using metaCyto. This is code is written in R. 
+13) code_13_down_sample_training data.ipynb. This code test the performance of the deep CNN model when number of training data is reduced. 
+14) code_14_down_sample_marker.ipynb. This code test the performance of the deep CNN model when the number of marker is reduced. 
+15) code_15_stability_of_decision_tree.ipynb. This code test the stability of the model interpretation method. 
+16) code_16_tSNE_visualization.ipynb. This code visualizes the CyTOF data using tSNE plots. 
